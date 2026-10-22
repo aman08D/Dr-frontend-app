@@ -18,7 +18,7 @@ const Navbar = () => {
           
           {/* Logo */}
           <Link to="/" className="text-xl font-bold tracking-wide text-blue-400 whitespace-nowrap mr-4">
-            DR Platform
+            Respotech
           </Link>
 
           {/* Desktop Links - Used whitespace-nowrap so text never breaks into 2 lines */}
